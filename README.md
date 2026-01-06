@@ -25,3 +25,5 @@ javac partyController/*.java partyModel/*.java partyView/*.java
 
 # Run the application via the MainProgram entry point
 java partyController.MainProgram
+```
+*Author: Alper Eken Course: Objectoriented programming Semester: Autumn 2024*
